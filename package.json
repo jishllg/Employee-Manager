@@ -1,0 +1,30 @@
+{
+  "name": "employee-manager",
+  "version": "1.0.0",
+  "description": "A content management system for working with a MySQL database of employee information.",
+  "main": "app.js",
+  "scripts": {
+    "test": "None"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jishllg/Employee-Manager.git"
+  },
+  "keywords": [
+    "Content",
+    "Management",
+    "System",
+    "Employees",
+    "MySQL"
+  ],
+  "author": "jishllg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jishllg/Employee-Manager/issues"
+  },
+  "homepage": "https://github.com/jishllg/Employee-Manager#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
